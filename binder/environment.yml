@@ -1,6 +1,9 @@
 name: crashExplo
-
+channels:
+  - conda-forge
 dependencies:
+  - numpy
+  - matplotlib
   - python=3.7
   - jupyter=1.0.0
   - notebook=6.0.1

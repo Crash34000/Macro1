@@ -1,0 +1,12 @@
+name: crashExplo
+
+dependencies:
+  - python=3.7
+  - jupyter=1.0.0
+  - notebook=6.0.1
+  - numpy=1.17.3
+  - pandas=0.25.3
+  - pip=19.3.1
+  - pip:
+    - ipywidgets==7.5.1
+    - randomcolor==0.4.4.5
